@@ -17,5 +17,3 @@ phases:
       - echo Build completed on `date`
       - echo Build completed on `date`
       - echo Build completed on `date`
-      - echo Build completed on `date`
-      - echo Build completed on `date`
